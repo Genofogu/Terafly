@@ -1,1 +1,1 @@
-https://sindisco.github.io/Terafly/
+https://genofogu.github.io/Terafly/
